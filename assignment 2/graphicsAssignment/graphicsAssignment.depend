@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1587709715 source:c:\users\hema\desktop\graphicsassignment\graphicsassignment\main.cpp
+	<tchar.h>
+	<windows.h>
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+	"curve.h"
+
+1587626148 c:\users\hema\desktop\graphicsassignment\graphicsassignment\include\point.h
+
+1587625228 c:\users\hema\desktop\graphicsassignment\graphicsassignment\include\line.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587689677 c:\users\hema\desktop\graphicsassignment\graphicsassignment\include\circle.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587689981 source:c:\users\hema\desktop\graphicsassignment\graphicsassignment\src\circle.cpp
+	"circle.h"
+	"point.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587626203 source:c:\users\hema\desktop\graphicsassignment\graphicsassignment\src\point.cpp
+	"point.h"
+	<cmath>
+
+1587626711 source:c:\users\hema\desktop\graphicsassignment\graphicsassignment\src\line.cpp
+	"point.h"
+	"line.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587704896 source:c:\users\hema\desktop\graphicsassignment\graphicsassignment\src\curve.cpp
+	"curve.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+
+1587704883 c:\users\hema\desktop\graphicsassignment\graphicsassignment\include\curve.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+
+1587689981 source:c:\users\hema\downloads\cs471-parallel-a2-2020\graphicsassignment\src\circle.cpp
+	"circle.h"
+	"point.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587689677 c:\users\hema\downloads\cs471-parallel-a2-2020\graphicsassignment\include\circle.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587626148 c:\users\hema\downloads\cs471-parallel-a2-2020\graphicsassignment\include\point.h
+
+1587625228 c:\users\hema\downloads\cs471-parallel-a2-2020\graphicsassignment\include\line.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587704896 source:c:\users\hema\downloads\cs471-parallel-a2-2020\graphicsassignment\src\curve.cpp
+	"curve.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+
+1587704883 c:\users\hema\downloads\cs471-parallel-a2-2020\graphicsassignment\include\curve.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+
+1587626711 source:c:\users\hema\downloads\cs471-parallel-a2-2020\graphicsassignment\src\line.cpp
+	"point.h"
+	"line.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587626203 source:c:\users\hema\downloads\cs471-parallel-a2-2020\graphicsassignment\src\point.cpp
+	"point.h"
+	<cmath>
+
+1587831877 source:c:\users\hema\downloads\cs471-parallel-a2-2020\graphicsassignment\main.cpp
+	<tchar.h>
+	<windows.h>
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+	"curve.h"
+
+1587689981 source:f:\graphicsassignment\src\circle.cpp
+	"circle.h"
+	"point.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587689677 f:\graphicsassignment\include\circle.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587626148 f:\graphicsassignment\include\point.h
+
+1587625228 f:\graphicsassignment\include\line.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587704896 source:f:\graphicsassignment\src\curve.cpp
+	"curve.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+
+1587704883 f:\graphicsassignment\include\curve.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+
+1587626711 source:f:\graphicsassignment\src\line.cpp
+	"point.h"
+	"line.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1587626203 source:f:\graphicsassignment\src\point.cpp
+	"point.h"
+	<cmath>
+
