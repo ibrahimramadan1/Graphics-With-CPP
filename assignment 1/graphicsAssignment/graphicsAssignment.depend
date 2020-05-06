@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1584664606 source:c:\users\hema\desktop\graphicsassignment\src\point.cpp
+	"point.h"
+
+1584660048 c:\users\hema\desktop\graphicsassignment\include\point.h
+
+1584665083 source:c:\users\hema\desktop\graphicsassignment\src\line.cpp
+	"point.h"
+	"line.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1584664575 c:\users\hema\desktop\graphicsassignment\include\line.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1584665125 c:\users\hema\desktop\graphicsassignment\include\circle.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1584665169 source:c:\users\hema\desktop\graphicsassignment\src\circle.cpp
+	"circle.h"
+	"point.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1584665394 source:c:\users\hema\desktop\graphicsassignment\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1586372045 source:e:\fci\third year _ cs dept\2nd term\computer graphics\assignments\assignment 1\graphicsassignment\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1584660048 e:\fci\third year _ cs dept\2nd term\computer graphics\assignments\assignment 1\graphicsassignment\include\point.h
+
+1584664575 e:\fci\third year _ cs dept\2nd term\computer graphics\assignments\assignment 1\graphicsassignment\include\line.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1584665125 e:\fci\third year _ cs dept\2nd term\computer graphics\assignments\assignment 1\graphicsassignment\include\circle.h
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1584665169 source:e:\fci\third year _ cs dept\2nd term\computer graphics\assignments\assignment 1\graphicsassignment\src\circle.cpp
+	"circle.h"
+	"point.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1584665083 source:e:\fci\third year _ cs dept\2nd term\computer graphics\assignments\assignment 1\graphicsassignment\src\line.cpp
+	"point.h"
+	"line.h"
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"point.h"
+	"line.h"
+	"circle.h"
+
+1584664606 source:e:\fci\third year _ cs dept\2nd term\computer graphics\assignments\assignment 1\graphicsassignment\src\point.cpp
+	"point.h"
+
